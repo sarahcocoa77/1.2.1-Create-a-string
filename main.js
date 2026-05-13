@@ -1,4 +1,4 @@
 // Write your code below
-var fcity = "";
+var fcity = "San francisco";
 
-console.log();
+console.log(fcity);
